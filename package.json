@@ -24,7 +24,7 @@
     "url": "https://github.com/Jordan2R/gocd-test/issues"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "1.6.0",
     "bcryptjs": "2.4.3",
     "date-fns": "2.10.0",
     "jsonwebtoken": "8.5.1",
